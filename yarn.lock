@@ -1077,6 +1077,13 @@ partykit@^0.0.0-e7aa4cd:
     ws "^8.13.0"
     zod "^3.21.4"
 
+partysocket@^0.0.0-46d871d:
+  version "0.0.0-46d871d"
+  resolved "https://registry.yarnpkg.com/partysocket/-/partysocket-0.0.0-46d871d.tgz#e4855e5bbe0b1af442a029b837e85c94339f3c00"
+  integrity sha512-SU69OVWTmK53R3xU7c2aYc5aecESu9O1JoVxj+kA6UKRrWtWmjLvzMlTJ0zakXKk23K+jB9P7iqIhheT2V4OKQ==
+  dependencies:
+    react "^18.2.0"
+
 patch-console@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/patch-console/-/patch-console-2.0.0.tgz#9023f4665840e66f40e9ce774f904a63167433bb"

@@ -9,6 +9,7 @@
     },
     "dependencies": {
         "partykit": "^0.0.0-e7aa4cd",
+        "partysocket": "^0.0.0-46d871d",
         "typescript": "^5.1.6",
         "y-partykit": "^0.0.0-e7aa4cd"
     },
